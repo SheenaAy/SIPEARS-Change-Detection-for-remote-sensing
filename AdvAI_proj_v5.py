@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 ViT-Small LoRA Change Detection Pipeline (v5 - Live Console Progress Logging & tqdm)
-Author: Shaheen / Gemini Notebook
+@ author: Shaheen 
 Description:
   1. Integrates tqdm progress bars & live loss/metric logging so the console never stays silent.
   2. Prevents spatial data leakage using Spatial Block-Split (geographic grid split).
