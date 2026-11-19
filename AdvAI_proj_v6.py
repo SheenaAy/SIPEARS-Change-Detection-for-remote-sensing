@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 ViT-Small LoRA Change Detection Pipeline (v6 - Modular, Checkpointed & Visualizations)
-Author: Shaheen / Gemini Notebook
+@ author: Shaheen 
 Description:
   1. Reproducibility: Fully seeded random generation across Python, NumPy, PyTorch, CUDA.
   2. Checkpointing: Saves trained model weights (.pth) and metric logs (.json) to disk.
