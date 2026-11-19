@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 ViT-Small LoRA Change Detection Pipeline (v7 - Complete Publication Visuals Suite)
-Author: Shaheen / Gemini Notebook
+@ author: Shaheen 
 Description:
   Contains the FULL suite of quantitative, qualitative, and architectural visualizations required for your IGARSS / IEEE GRSL research paper:
     1. plot_qualitative_4panel(): Side-by-side change maps (T1 | T2 | GT | Siamese U-Net | Frozen ViT | ViT+LoRA)
